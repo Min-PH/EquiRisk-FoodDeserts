@@ -85,7 +85,7 @@ For a solo researcher or small team working at this scale of complexity, this ma
 
 ## 6. Simulation Projects as Teaching Tools
 
-The eighteen modular simulation projects in the [Fork Simulation Suggestions](FORK_SIMULATION_SUGGESTIONS_EquiRisk_Refer_v1_2.md) serve a specific purpose beyond enabling research contributions. Each project forces the implementing researcher or system to reason under constraints that reflect human values — not just what is fastest or cheapest, but what is fair, feasible for the patient, and honest about system failures.
+The eighteen modular simulation projects in the [Fork Simulation Suggestions](FORK_SIMULATION_SUGGESTIONS_v1_2.md) serve a specific purpose beyond enabling research contributions. Each project forces the implementing researcher or system to reason under constraints that reflect human values — not just what is fastest or cheapest, but what is fair, feasible for the patient, and honest about system failures.
 
 Consider Project S1 (Grocery Store Access Mapper Under Inflation). The core question: *How many diabetic patients in food desert census tracts lost effective grocery access due to inflation, even without any store closures?* An efficiency-optimized AI, without explicit equity constraints, would not generate this question — stores that are open are open. The question only arises when you embed the EquiRisk BC-2 economic boundary condition: cost exceeding 10% of weekly food budget renders access infeasible regardless of proximity. That rule comes from public health judgment about what access actually means for low-income diabetic patients.
 
