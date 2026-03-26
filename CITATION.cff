@@ -1,0 +1,73 @@
+# This CITATION.cff file was generated for the EquiRisk-FoodDeserts repository.
+# https://citation-file-format.github.io/
+
+cff-version: 1.2.0
+title: "EquiRisk-FoodDeserts: Integrated Simulation Framework for Equity-Aware Diabetes Care Navigation in Food Deserts"
+message: "If you use this framework, please cite it using the metadata from this file."
+type: software
+version: 1.2.0
+date-released: "2026-03-26"
+license: CC-BY-4.0
+
+authors:
+  - family-names: Wu
+    given-names: Min
+    affiliation: "Zilber College of Public Health, University of Wisconsin-Milwaukee"
+    orcid: "https://orcid.org/0000-0002-1745-379x"  
+
+repository-code: "https://github.com/Min-PH/EquiRisk-FoodDeserts"
+url: "https://github.com/Min-PH/EquiRisk-FoodDeserts"
+
+doi: "10.5281/zenodo.19228063"
+
+keywords:
+  - simulation
+  - public-health
+  - diabetes
+  - agent-based-modeling
+  - equity
+  - food-deserts
+  - urban-health
+  - health-equity
+  - food-access
+  - climate-health
+  - equirisk
+  - cmdds
+
+abstract: >-
+  Integrated EquiRisk + PAPO simulation framework (CMDDS v1.2) for
+  equity-aware diabetes care navigation in food desert settings. The
+  framework combines equity-aware risk stratification (EquiRisk) with
+  policy-aware personalized opportunity matching (PAPO) to operationalize
+  equity as a proactive decision rule. Includes seven boundary condition
+  categories (BC-1 through BC-7, including trust barriers), agent state
+  transition rules, EquiRisk tier definitions, contact success probability
+  model, HbA1c trajectory model, Equity Audit Layer specification, and
+  18 modular simulation projects from starter to advanced level.
+
+references:
+  - type: article
+    title: "EquiRisk: Operationalizing Equity-Aware Risk Stratification for Diabetes Management in Food Deserts"
+    authors:
+      - family-names: Wu
+        given-names: Min
+    year: 2026
+    url: "https://ssrn.com/abstract=6150926"
+
+  - type: article
+    title: "PAPO: A Policy-Aware Personalized Opportunity Framework for Heatwave Public Health Interventions"
+    authors:
+      - family-names: Wu
+        given-names: Min
+    year: 2026
+    url: "https://ssrn.com/abstract=6198260"
+
+  - type: book
+    title: "Artificial Intelligence in Public Health"
+    authors:
+      - family-names: Wu
+        given-names: Min
+    year: 2026
+    publisher:
+      name: "Springer Nature"
+    isbn: "978-3032158710"
