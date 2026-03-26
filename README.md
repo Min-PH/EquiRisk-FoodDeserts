@@ -282,7 +282,7 @@ That document may be particularly useful for students and researchers thinking a
 
 Please cite the EquiRisk SSRN preprint and this repository when publishing derived work:
 
-> Wu, M. (2026). CMDDS for EquiRisk-FoodDeserts v1.2 — Integrated Simulation Framework for Equity-Aware Diabetes Care Navigation in Food Deserts. GitHub. https://github.com/Min-PH/EquiRisk-FoodDeserts
+> Wu, M. (2026). CMDDS for EquiRisk-FoodDeserts v1.2 — Integrated Simulation Framework for Equity-Aware Diabetes Care Navigation in Food Deserts. GitHub. https://github.com/Min-PH/EquiRisk-FoodDeserts. DOI: https://doi.org/10.5281/zenodo.19228063
 
 > Wu, M. (2026). EquiRisk: Operationalizing Equity-Aware Risk Stratification for Diabetes Management in Food Deserts. SSRN. https://ssrn.com/abstract=6150926
 
