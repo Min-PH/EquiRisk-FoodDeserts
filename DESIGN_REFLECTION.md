@@ -57,7 +57,7 @@ Every one of these components must be internally consistent with every other com
 
 This is where I want to be direct about the design process.
 
-The knowledge architecture required by the EquiRisk-FoodDeserts CMDDS exceeds what I can hold in working memory simultaneously while drafting, revising, and extending a specification of this scale. I am a public health researcher. I know how food deserts function, how diabetic patients experience care systems, what trust barriers mean in practice in Milwaukee versus Memphis, and what equity demands in public health decision-making. That domain expertise is mine and it is what makes the framework valid.
+The knowledge architecture required by the EquiRisk-FoodDeserts CMDDS exceeds what I can hold in working memory simultaneously while drafting, revising, and extending a specification of this scale. I am a public health informatics researcher. I know how food deserts function, how diabetic patients experience care systems, and what equity demands in public health decision-making. 
 
 But mapping all of those realities into a formal specification where every component connects correctly to every other component, across 15 steps and 18 simulation projects and multiple framework versions — that requires a reasoning partner that can maintain the full structure simultaneously. Claude (Anthropic) served that role throughout this project.
 
