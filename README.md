@@ -11,7 +11,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19228063.svg)](https://doi.org/10.5281/zenodo.19228063)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19228063.svg)](https://doi.org/10.5281/zenodo.19271682)
 
 ---
 
@@ -276,7 +276,7 @@ Project I4 and Project E3 in this repository explicitly bridge both frameworks.
 
 Please cite the EquiRisk SSRN preprint and this repository when publishing derived work:
 
-> Wu, M. (2026). CMDDS for EquiRisk-FoodDeserts v1.2 — Integrated Simulation Framework for Equity-Aware Diabetes Care Navigation in Food Deserts. GitHub. https://github.com/Min-PH/EquiRisk-FoodDeserts. DOI: https://doi.org/10.5281/zenodo.19228063
+> Wu, M. (2026). CMDDS for EquiRisk-FoodDeserts v1.2 — Integrated Simulation Framework for Equity-Aware Diabetes Care Navigation in Food Deserts. GitHub. https://github.com/Min-PH/EquiRisk-FoodDeserts. DOI: https://doi.org/10.5281/zenodo.19271682
 
 > Wu, M. (2026). EquiRisk: Operationalizing Equity-Aware Risk Stratification for Diabetes Management in Food Deserts. SSRN. https://ssrn.com/abstract=6150926
 
