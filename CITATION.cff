@@ -1,11 +1,11 @@
 # This CITATION.cff file was generated for the EquiRisk-FoodDeserts repository.
 # https://citation-file-format.github.io/
 
-cff-version: 1.2.0
+cff-version: 1.2.1
 title: "EquiRisk-FoodDeserts: Integrated Simulation Framework for Equity-Aware Diabetes Care Navigation in Food Deserts"
 message: "If you use this framework, please cite it using the metadata from this file."
 type: software
-version: 1.2.0
+version: 1.2.1
 date-released: "2026-03-26"
 license: CC-BY-4.0
 
@@ -18,7 +18,7 @@ authors:
 repository-code: "https://github.com/Min-PH/EquiRisk-FoodDeserts"
 url: "https://github.com/Min-PH/EquiRisk-FoodDeserts"
 
-doi: "10.5281/zenodo.19228063"
+doi: "10.5281/zenodo.19271682"
 
 keywords:
   - simulation
