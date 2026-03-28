@@ -252,13 +252,7 @@ Project I4 and Project E3 in this repository explicitly bridge both frameworks.
 
 ---
 
-## Design Reflection: Human-AI Collaboration in This Project
 
-This repository was developed through a collaboration between the author and Claude (Anthropic). A detailed reflection on the design process — why AI partnership was required for a specification of this complexity, how the collaboration worked in practice, what it means to make public health logic machine readable, and how this approach differs from AI learning directly from data — is available in [`DESIGN_REFLECTION.md`](DESIGN_REFLECTION.md).
-
-That document may be particularly useful for students and researchers thinking about the role of AI in equity-focused public health research, and for anyone evaluating the provenance and integrity of AI-assisted academic work.
-
----
 
 ## Related Publications
 
