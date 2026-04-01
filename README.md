@@ -52,7 +52,6 @@ Together they operationalize equity as a **proactive decision rule**, not a retr
 |---|---|---|
 | `CMDDS_EquiRisk_FoodDeserts_v1.2.md` | 1.2 | Full simulation specification — the anchor document |
 | `FORK_SIMULATION_SUGGESTIONS.md` | 1.2 | 18 modular projects from beginner to advanced |
-| `DESIGN_REFLECTION.md` | 1.2 | Author's reflection on the design process and human-AI collaboration |
 | `CONTRIBUTING.md` | 1.2 | How to fork, implement, and contribute |
 | `LICENSE.md` | 1.2 | CC BY 4.0 license with attribution requirements |
 | `README.md` | 1.2 | This file |
